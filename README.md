@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning computer science at RIT
+- 📫 How to reach me: jmh4687@g.rit.rdu
+- ⚡ Fun fact: I like to do art
+
 <!--
 **ForSchoolJackson/ForSchoolJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
